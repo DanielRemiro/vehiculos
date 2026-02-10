@@ -1,0 +1,430 @@
+[
+  {
+    "id": 1,
+    "modelo": "Corolla GR Sport",
+    "color": "Blanco Alpino",
+    "precio": 29500.0,
+    "descripcion": "Compacto híbrido deportivo y eficiente.",
+    "marca": {
+      "nombre": "Toyota",
+      "pais": "Japón"
+    },
+    "motor": {
+      "combustible": "Híbrido",
+      "potencia": "184 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 106,
+        "nombre": "Miguel Ángel",
+        "telefono": "+34 655 123 456"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "modelo": "Mustang GT",
+    "color": "Amarillo Racing",
+    "precio": 55000.0,
+    "descripcion": "Icono americano con motor V8.",
+    "marca": {
+      "nombre": "Ford",
+      "pais": "EE.UU."
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "450 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 101,
+        "nombre": "Ana López",
+        "telefono": "+34 600 111 222"
+      },
+      {
+        "id": 102,
+        "nombre": "David Martín",
+        "telefono": "+34 611 333 444"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "modelo": "Model 3 Performance",
+    "color": "Gris Plata",
+    "precio": 53990.0,
+    "descripcion": "Berlina eléctrica de alto rendimiento.",
+    "marca": {
+      "nombre": "Tesla",
+      "pais": "EE.UU."
+    },
+    "motor": {
+      "combustible": "Eléctrico",
+      "potencia": "513 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 101,
+        "nombre": "Ana López",
+        "telefono": "+34 600 111 222"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "modelo": "Ibiza FR",
+    "color": "Azul Eléctrico",
+    "precio": 19800.0,
+    "descripcion": "Utilitario ágil y deportivo.",
+    "marca": {
+      "nombre": "Seat",
+      "pais": "España"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "110 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 103,
+        "nombre": "Elena Sánchez",
+        "telefono": "+34 622 555 666"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "modelo": "Serie 3 Touring",
+    "color": "Negro Profundo",
+    "precio": 48600.0,
+    "descripcion": "Familiar premium elegante y espacioso.",
+    "marca": {
+      "nombre": "BMW",
+      "pais": "Alemania"
+    },
+    "motor": {
+      "combustible": "Diesel",
+      "potencia": "190 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 6,
+    "modelo": "GLC Coupé",
+    "color": "Verde Bosque",
+    "precio": 62500.0,
+    "descripcion": "SUV coupé de lujo y gran confort.",
+    "marca": {
+      "nombre": "Mercedes-Benz",
+      "pais": "Alemania"
+    },
+    "motor": {
+      "combustible": "Diesel Híbrido",
+      "potencia": "204 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 106,
+        "nombre": "Miguel Ángel",
+        "telefono": "+34 655 123 456"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "modelo": "Golf GTI",
+    "color": "Gris Plata",
+    "precio": 44500.0,
+    "descripcion": "El hot hatch por excelencia.",
+    "marca": {
+      "nombre": "Volkswagen",
+      "pais": "Alemania"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "245 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 8,
+    "modelo": "Sportage GT Line",
+    "color": "Gris Plata",
+    "precio": 36200.0,
+    "descripcion": "SUV moderno y tecnológico.",
+    "marca": {
+      "nombre": "Kia",
+      "pais": "Corea del Sur"
+    },
+    "motor": {
+      "combustible": "Híbrido",
+      "potencia": "230 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 9,
+    "modelo": "911 Carrera",
+    "color": "Verde Bosque",
+    "precio": 145000.0,
+    "descripcion": "Leyenda deportiva atemporal.",
+    "marca": {
+      "nombre": "Porsche",
+      "pais": "Alemania"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "385 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 101,
+        "nombre": "Ana López",
+        "telefono": "+34 600 111 222"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "modelo": "Ninja 650",
+    "color": "Blanco Alpino",
+    "precio": 8900.0,
+    "descripcion": "Deportiva versátil de peso medio.",
+    "marca": {
+      "nombre": "Kawasaki",
+      "pais": "Japón"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "72 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 11,
+    "modelo": "A4 Avant",
+    "color": "Rojo Fuego",
+    "precio": 46000.0,
+    "descripcion": "Familiar tecnológico y eficiente.",
+    "marca": {
+      "nombre": "Audi",
+      "pais": "Alemania"
+    },
+    "motor": {
+      "combustible": "Diesel MHEV",
+      "potencia": "204 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 12,
+    "modelo": "Civic Type R",
+    "color": "Negro Profundo",
+    "precio": 55000.0,
+    "descripcion": "Compacto radical para circuito y calle.",
+    "marca": {
+      "nombre": "Honda",
+      "pais": "Japón"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "329 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 105,
+        "nombre": "Lucía Fernández",
+        "telefono": "+34 644 999 000"
+      },
+      {
+        "id": 102,
+        "nombre": "David Martín",
+        "telefono": "+34 611 333 444"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "modelo": "Tucson N Line",
+    "color": "Naranja Atardecer",
+    "precio": 38000.0,
+    "descripcion": "SUV superventas con diseño agresivo.",
+    "marca": {
+      "nombre": "Hyundai",
+      "pais": "Corea del Sur"
+    },
+    "motor": {
+      "combustible": "Híbrido",
+      "potencia": "230 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 107,
+        "nombre": "Sofía Ruiz",
+        "telefono": "+34 666 789 012"
+      },
+      {
+        "id": 103,
+        "nombre": "Elena Sánchez",
+        "telefono": "+34 622 555 666"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "modelo": "XC60 Recharge",
+    "color": "Blanco Alpino",
+    "precio": 67000.0,
+    "descripcion": "Seguridad y potencia sueca.",
+    "marca": {
+      "nombre": "Volvo",
+      "pais": "Suecia"
+    },
+    "motor": {
+      "combustible": "Híbrido Enchufable",
+      "potencia": "455 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 15,
+    "modelo": "500e",
+    "color": "Naranja Atardecer",
+    "precio": 28500.0,
+    "descripcion": "Icono urbano ahora cero emisiones.",
+    "marca": {
+      "nombre": "Fiat",
+      "pais": "Italia"
+    },
+    "motor": {
+      "combustible": "Eléctrico",
+      "potencia": "118 CV"
+    },
+    "clientes_interesados": []
+  },
+  {
+    "id": 16,
+    "modelo": "MX-5",
+    "color": "Negro Profundo",
+    "precio": 32000.0,
+    "descripcion": "El roadster más vendido del mundo.",
+    "marca": {
+      "nombre": "Mazda",
+      "pais": "Japón"
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "184 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 101,
+        "nombre": "Ana López",
+        "telefono": "+34 600 111 222"
+      },
+      {
+        "id": 105,
+        "nombre": "Lucía Fernández",
+        "telefono": "+34 644 999 000"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "modelo": "Clio E-Tech",
+    "color": "Amarillo Racing",
+    "precio": 22000.0,
+    "descripcion": "Polivalente eficiente y conectado.",
+    "marca": {
+      "nombre": "Renault",
+      "pais": "Francia"
+    },
+    "motor": {
+      "combustible": "Híbrido",
+      "potencia": "145 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 107,
+        "nombre": "Sofía Ruiz",
+        "telefono": "+34 666 789 012"
+      },
+      {
+        "id": 104,
+        "nombre": "Javier Gómez",
+        "telefono": "+34 633 777 888"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "modelo": "Wrangler Rubicon",
+    "color": "Naranja Atardecer",
+    "precio": 72000.0,
+    "descripcion": "Todoterreno puro sin compromisos.",
+    "marca": {
+      "nombre": "Jeep",
+      "pais": "EE.UU."
+    },
+    "motor": {
+      "combustible": "Gasolina",
+      "potencia": "272 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 106,
+        "nombre": "Miguel Ángel",
+        "telefono": "+34 655 123 456"
+      },
+      {
+        "id": 102,
+        "nombre": "David Martín",
+        "telefono": "+34 611 333 444"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "modelo": "LC 500h",
+    "color": "Amarillo Racing",
+    "precio": 120000.0,
+    "descripcion": "Gran Turismo de lujo y diseño vanguardista.",
+    "marca": {
+      "nombre": "Lexus",
+      "pais": "Japón"
+    },
+    "motor": {
+      "combustible": "Híbrido",
+      "potencia": "359 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 103,
+        "nombre": "Elena Sánchez",
+        "telefono": "+34 622 555 666"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "modelo": "Defender 110",
+    "color": "Rojo Fuego",
+    "precio": 85000.0,
+    "descripcion": "Capacidad 4x4 con estilo moderno.",
+    "marca": {
+      "nombre": "Land Rover",
+      "pais": "Reino Unido"
+    },
+    "motor": {
+      "combustible": "Diesel MHEV",
+      "potencia": "300 CV"
+    },
+    "clientes_interesados": [
+      {
+        "id": 102,
+        "nombre": "David Martín",
+        "telefono": "+34 611 333 444"
+      }
+    ]
+  }
+]
